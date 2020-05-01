@@ -3,5 +3,5 @@ num1 = gets.chomp().to_f # Gets will get the user input and chomp will get rid o
 puts "Enter another Number: "
 num2 = gets.chomp().to_f # to_f will convert the variables into decimals
 
-puts (num1 + num2) 
-puts (num1 * num2)
+puts ("Addition: " num1 + num2) 
+puts ("Multiplication: " num1 * num2)
