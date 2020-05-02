@@ -4,4 +4,3 @@ puts "Enter another Number: "
 num2 = gets.chomp().to_f # to_f will convert the variables into decimals
 
 puts ("Addition: " num1 + num2) 
-puts ("Multiplication: " num1 * num2)
